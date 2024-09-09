@@ -1,4 +1,4 @@
-# Amazon-Sales-Data-Analysis-Exploratory-Data-Analysis-EDA-
+# Amazon-Sales-Data-Analysis-Exploratory-Data-Analysis-EDA
 # Amazon Sales Data Analysis: Exploratory Data Analysis (EDA)
 ## Overview
 This project involves performing Exploratory Data Analysis (EDA) on the Amazon Sales dataset. The dataset provides comprehensive information about various products, including details on pricing, ratings, reviews, and more.
