@@ -37,18 +37,23 @@ This project involves performing Exploratory Data Analysis (EDA) on the Amazon S
 1.Price Distribution:
 
 * Visualized the distribution of discounted and actual prices using histograms.
+  
 2.Discount vs. Rating:
 
 * Explored the relationship between discount percentages and product ratings using scatter plots.
+  
 3.Top Categories:
 
 * Identified top categories based on average ratings and discount percentages.
+  
 4.Popular Products:
 
 * Listed the most popular products based on rating counts and average ratings.
+  
 %.Review Analysis:
 
 * Analyzed the distribution of product ratings and explored review content for insights.
+  
 ## Visualizations
 * Histograms for price distributions
 * Scatter plots for discount vs. rating
@@ -57,4 +62,4 @@ This project involves performing Exploratory Data Analysis (EDA) on the Amazon S
 
 # Author
 ## Prince Kumar
-#Data Analyst/Data Science
+# Data Analyst/Data Science
