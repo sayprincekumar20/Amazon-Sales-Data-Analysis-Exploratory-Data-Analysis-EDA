@@ -24,8 +24,8 @@ This project involves performing Exploratory Data Analysis (EDA) on the Amazon S
   
 # Project Objectives
 ## 1.Data Quality:
-      * Clean the data by handling missing values and duplicates.
-      * Ensure data quality before performing analysis.
+ * Clean the data by handling missing values and duplicates.
+ * Ensure data quality before performing analysis.
 Key Exploratory Insights:
 Analyze the distribution of discounted and actual prices.
 Explore the relationship between discount percentages and ratings.
